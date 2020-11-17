@@ -1,0 +1,68 @@
+body {
+    font-family: "Source Sans Pro", sans-serif;
+    text-align: center;
+    margin-top: 5%;
+}
+
+hr {
+    width: 220px;
+    opacity: 0.3;
+}
+
+p {
+    margin: 0;
+}
+
+#name {
+    margin: 0;
+}
+
+.job {
+    font-size: 1.2em;
+}
+
+#csau-link, #au-link, #systematic-link {
+    text-decoration: none;
+}
+
+#thomas-img {
+    max-width: 15%;
+    max-height: 15%;
+}
+
+.social {
+    position: relative;
+    filter: grayscale(100%);
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.social:hover {
+    filter: none;
+}
+
+#twitter-logo {
+    top: 2px;
+    max-width: 2.4%;
+    max-height:2.4%;
+}
+
+#linkedin-logo {
+    top: 1px;
+    max-width: 1.9%;
+    max-height:1.9%;
+}
+
+#mail-icon {
+    top: 1px;
+    max-width: 1.9%;
+    max-height:1.9%;
+}
+
+#barca-logo {
+    position: relative;
+    top: 2px;
+    opacity: 0.04;
+    max-width: 4%;
+    max-height: 4%;
+}
